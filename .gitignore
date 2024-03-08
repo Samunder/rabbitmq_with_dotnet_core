@@ -1,0 +1,7 @@
+.vs
+/RabbitMQ/RabbitMQ.Publisher/EventBus/obj
+/RabbitMQ/RabbitMQ.Publisher/EventBus/bin
+/RabbitMQ/RabbitMQ.Publisher/EventBusRabbitMQ/obj
+/RabbitMQ/RabbitMQ.Publisher/EventBusRabbitMQ/bin
+/RabbitMQ/RabbitMQ.Publisher/RabbitMQ.Publisher/obj
+/RabbitMQ/RabbitMQ.Publisher/RabbitMQ.Publisher/bin
